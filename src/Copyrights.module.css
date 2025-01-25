@@ -1,0 +1,10 @@
+.container {
+    position: fixed;
+    text-align: center;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    gap: 20;
+    font: 1em sans-serif;
+    font-size: 18px;
+}
